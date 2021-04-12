@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+  color: #000f0b;
+}
+/* .txt{
+  color: #000f0b;
+} */
+/*Component's Main*/
+.main-wrapc {
+  box-sizing: border-box;
+  margin: 6vmax;
+  text-align: center;
+  /* background-color: aqua; */
+}
+
+
+
+/*# sourceMappingURL=styles.css.map*/
